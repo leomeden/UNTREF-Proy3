@@ -1,7 +1,7 @@
 # Tercer proyecto integrador
 
 
-Se desarrolla una API integrando MongoDB con la librería sequelize en un proyecto Node.js.
+Se desarrolla una API integrando MySQL con la librería sequelize en un proyecto Node.js.
 
 ## Base de datos
 
